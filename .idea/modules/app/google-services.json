@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850766836380",
+    "firebase_url": "https://bistroapp-34703.firebaseio.com",
+    "project_id": "bistroapp-34703",
+    "storage_bucket": "bistroapp-34703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850766836380:android:bdd176726579b85b66f359",
+        "android_client_info": {
+          "package_name": "com.hasan.bistroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850766836380-sndjj2m7kega7d56rhqeld8dntrdcqhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasan.bistroapp",
+            "certificate_hash": "48720b749780460ecfbc7d7a3b4730afc6b24ab3"
+          }
+        },
+        {
+          "client_id": "850766836380-8l5lc4vg1041u4qptg1hn6ag47dghccg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1Q2hzXKhUDFJubPaGrOuVlEnK9rPwbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850766836380-8l5lc4vg1041u4qptg1hn6ag47dghccg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
